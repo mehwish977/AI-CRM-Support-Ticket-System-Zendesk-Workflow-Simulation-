@@ -4,10 +4,10 @@ A hands-on project simulating how real customer support teams manage tickets usi
 
 📸 Project Screenshots
 
-![Repo Overview](assets/screenshots/01-repo.png)
-![Tickets](assets/screenshots/02-tickets.png)
-![Sample Ticket](assets/screenshots/03-ticket.png)
-![CRM Model](assets/screenshots/04-crm.png)
+![Repo Overview](assets/01-repo.png)
+![Tickets](assets/02-tickets.png)
+![Sample Ticket](assets/03-ticket.png)
+![CRM Model](assets/04-crm.png)
 
 Project Overview
 
