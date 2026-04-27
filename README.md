@@ -47,3 +47,4 @@ It also improved my ability to think in a structured way when handling different
 Final Note
 
 This is a learning project designed to simulate real-world CRM support operations and build practical understanding of customer service workflows.
+
