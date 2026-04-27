@@ -1,8 +1,15 @@
 AI CRM Support Ticket System (Zendesk Workflow Simulation)
 
-Project Overview
+A hands-on project simulating how real customer support teams manage tickets using structured workflows, prioritization, and AI-assisted fields.
 
-This project is a simulation of a customer support system inspired by modern CRM tools like Zendesk. The goal is to understand how real customer support teams handle tickets, organize issues, and respond to customers in a structured and professional way.
+📸 Project Screenshots
+
+![Repo Overview](assets/screenshots/01-repo.png)
+![Tickets](assets/screenshots/02-tickets.png)
+![Sample Ticket](assets/screenshots/03-ticket.png)
+![CRM Model](assets/screenshots/04-crm.png)
+
+Project Overview
 
 Instead of only focusing on writing replies, this project also includes how tickets are categorized, prioritized, and managed using a proper workflow system.
 
